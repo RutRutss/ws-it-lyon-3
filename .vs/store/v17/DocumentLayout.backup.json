@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\data\\appcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\data\\appcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|c:\\users\\user\\source\\repos\\store\\store\\store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F07F6214-8622-46AD-B773-7AD4B10A643B}|store\\store.csproj|solutionrelative:store\\store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "store",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\store.csproj",
+              "RelativeDocumentMoniker": "store\\store.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\store.csproj",
+              "RelativeToolTip": "store\\store.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T15:18:52.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Data\\AppContextDB.cs",
+              "RelativeDocumentMoniker": "store\\Data\\AppContextDB.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Data\\AppContextDB.cs",
+              "RelativeToolTip": "store\\Data\\AppContextDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:43:41.057Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "store\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "store\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:27:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "store\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "store\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:27:16.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "store\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "store\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:19:16.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "store\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\OrderItem.cs",
+              "RelativeToolTip": "store\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:04:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "store\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Customer.cs",
+              "RelativeToolTip": "store\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:47:59.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "store\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Order.cs",
+              "RelativeToolTip": "store\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:39:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "store\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Models\\Product.cs",
+              "RelativeToolTip": "store\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:44:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\store\\store\\Program.cs",
+              "RelativeDocumentMoniker": "store\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\store\\store\\Program.cs",
+              "RelativeToolTip": "store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:18:46.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
